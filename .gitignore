@@ -22,4 +22,5 @@
 *.x86_64
 *.hex
 
-core.autocrlf=false
+[core]
+    autocrlf = false
