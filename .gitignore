@@ -22,7 +22,4 @@
 *.x86_64
 *.hex
 
-text=auto
-core.autocrlf=true
-
-.sln text eol=crlf
+core.autocrlf=false
