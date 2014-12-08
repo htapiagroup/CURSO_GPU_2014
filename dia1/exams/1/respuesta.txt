@@ -1,0 +1,9 @@
+
+Pregunta 1:
+(c) Result = 28
+
+Pregunta 2:
+a) El programa 2 test2.c
+b) El programa 3 test3.c
+c) El programa 1 test1.c
+d) Liberar la memoria del test2.c para x, y, z
